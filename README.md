@@ -5,3 +5,7 @@ The goal of sudoku is to complete a square grid of 9×9 = 81 cells using only th
 
 Your task in this assignment is to develop a sudoku assistant, to help people solve their sudoku puzzles. You will
 use a one-dimensional C array to store a linearized version of the sudoku matrix (see Figure 4), and will write functions that carry out useful operations, including checking for numbering violations, identifying any “it must be that value” cells, and perhaps even solving some easy puzzles through to completion.
+
+![page1image14459216](https://github.com/clarissaso/Sudoku-Algorithm/assets/80309625/1d5fefd5-c1c5-4bd3-822c-bd4407e7b576)
+
+Figure 1: An "Easy" sudoku.
